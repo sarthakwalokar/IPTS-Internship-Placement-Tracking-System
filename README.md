@@ -74,7 +74,6 @@ This project is designed to manage and track student internship and placement re
 ## Future Scope
 
 * Email Notifications
-* Resume Upload
 * Company Portal Integration
 
 ---
