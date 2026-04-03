@@ -15,7 +15,7 @@ JDBC
 MySQL
 HTML, CSS
 
-![Dashboard](C:\Users\YOGESH\Pictures\Screenshots/dashboard.png)
+![Dashboard](C:\Users\YOGESH\Pictures\Screenshots\dashboard.png)
 
 ▶️ How to Run
 Clone the repository
