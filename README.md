@@ -15,6 +15,8 @@ JDBC
 MySQL
 HTML, CSS
 
+![Dasgboard](Screenshots/dashboard.png)
+
 ▶️ How to Run
 Clone the repository
 Import project into Eclipse
