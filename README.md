@@ -30,25 +30,25 @@ This project is designed to manage and track student internship and placement re
 ### Login Page
 
 <p align="center">
-  <img src="Screenshots/Screenshot 2026-04-03 123610" width="600"/>
+  <img src="screenshots/Screenshot 2026-04-03 123610.png" width="600"/>
 </p>
 
 ### Dashboard
 
 <p align="center">
-  <img src="Screenshots/dashboard.png" width="600"/>
+  <img src="screenshots/dashboard.png" width="600"/>
 </p>
 
 ### Add Internship
 
 <p align="center">
-  <img src="Screenshots/Screenshot 2026-04-03 123701" width="600"/>
+  <img src="screenshots/Screenshot 2026-04-03 123701.png" width="600"/>
 </p>
 
 ### Placement
 
 <p align="center">
-  <img src="Screenshots/Screenshot 2026-04-03 123730" width="600"/>
+  <img src="screenshots/Screenshot 2026-04-03 123730.png" width="600"/>
 </p>
 
 ---
